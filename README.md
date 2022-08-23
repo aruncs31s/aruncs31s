@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aruncs31s
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning css,js
+- 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I love 🎧
 
 
