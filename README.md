@@ -1,6 +1,6 @@
-<!--- 👋 Hi, I’m @aruncs31s
+<!--- 👋 Hi, I’m Arun CS
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning css,js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I love 🎧
 --->
