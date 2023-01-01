@@ -4,18 +4,20 @@
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I love 🎧
 --->
+<!---
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/aruncs31s"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/aruncs31s/aruncs31s?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/aruncs31s/aruncs31s.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/aruncs31s/aruncs31s.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=aruncs31s.aruncs31s" alt="visitors"/>   
 </p>
-
+--->
+<p align="center">
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s&theme=radical&layout=compact&center=true) 
-
+</p>
 
 
 <!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=aruncs31s"></img>
@@ -46,9 +48,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://t.me/killadinjan">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/arun-cs-3b2442256"> 
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
     
-         
-         
       
 
