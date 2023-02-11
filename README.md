@@ -1,35 +1,4 @@
-<!--- 👋 Hi, I’m Arun CS
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything
-- ⚡ Fun fact: I love 🎧
---->
 
-<p align="center">
-
- ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s&theme=radical&layout=compact&center=true) 
-</p>
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aruncs31s"></img>
-
-
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aruncs31s) 
-
-<br />
-<!--- ![GitHub metrics](https://metrics.lecoq.io/aruncs31s)  
---->
-<!---
-aruncs31s/aruncs31s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Contact?
 <p align='center'>
   
