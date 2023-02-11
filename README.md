@@ -4,35 +4,26 @@
 - 💞️ I’m looking to collaborate on anything
 - ⚡ Fun fact: I love 🎧
 --->
-<!---
-<p align="center">
-    <a href="https://github.com/aruncs31s"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/aruncs31s/aruncs31s?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/aruncs31s/aruncs31s.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/aruncs31s/aruncs31s.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=aruncs31s.aruncs31s" alt="visitors"/>   
-</p>
---->
+
 <p align="center">
 
-<!--- ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s&theme=radical&layout=compact&center=true) 
+ ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s&theme=radical&layout=compact&center=true) 
 </p>
---->
-
-
-<!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=aruncs31s"></img>
---->
 
 
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s)](https://github.com/anuraghazra/github-readme-stats)
-<br /> --->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aruncs31s"></img>
 
 
-<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aruncs31s) 
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aruncs31s)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aruncs31s) 
+
 <br />
---->
 <!--- ![GitHub metrics](https://metrics.lecoq.io/aruncs31s)  
 --->
 <!---
