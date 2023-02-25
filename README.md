@@ -1,22 +1,23 @@
 <h2><i>Call me on any project</i></h2>
 
+
 ## projects
-- [Bash](#bash)
-- [Python](#python)
-- [Html](#html)
-- [flask](#flask)
-- [MATLAB](#matlab)
-- [cyber security](#cyber-security)
-- [Java script](#java-script)
-- [Node js](#nodejs)
-- [C programming](#c-programming)
-- [C ++](#cpp)
-- [Linux](#linux)
-  - [tmux](#tmux)
+- [Bash](#bash) <img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-bash-48.png" width="16"/>
+- [Python](#python) <img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
+- [Html](#html) <img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-html-filetype-24.png" width="16"/><img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-css3-30.png" width="16"/>
+- [flask](#flask) <img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-flask-50.png" width="16"/>
+- [MATLAB](#matlab)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-matlab-100.png" width="16"/>
+- [cyber security](#cyber-security)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
+- [Java script](#java-script)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
+- [Node js](#nodejs)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-node-js-48.png" width="16"/>
+- [C programming](#c-programming)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
+- [C ++](#cpp)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
+- [Linux](#linux)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
+  - [tmux](#tmux)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
 - [Assembly](https://github.com/aruncs31s/programming/tree/main/assembly)
   - [8051](#8051)
 - [Android](#android)
-   - [Termux](#termux)
+   - [Termux](#termux)<img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
    - [T-ui](#t-ui)
 
 
