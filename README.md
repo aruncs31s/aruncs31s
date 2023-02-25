@@ -1,15 +1,14 @@
 <h2><i>Call me on any project</i></h2>
 
 ## projects
-
-
 - [Bash](#bash)
 - [Python](#python)
 - [Html](#html)
 - [flask](#flask)
 - [MATLAB](#matlab)
+- [cyber security](#cyber-security)
 - [Java script](#java-script)
-- [Node js](#node-js)
+- [Node js](#nodejs)
 - [C programming](#c-programming)
 - [C ++](#cpp)
 - [Linux](#linux)
@@ -19,6 +18,9 @@
 - [Android](#android)
    - [Termux](#termux)
    - [T-ui](#t-ui)
+
+
+
 ## Contact?
 <p align='center'>
   
@@ -36,8 +38,9 @@
 
 
 ## Bash 
-1. [Linux mining](https://github.com/aruncs31s/linux-mining/blob/main/fastTermuxSetup.sh)
-2. [python-programming](https://github.com/aruncs31s/programming/tree/main/python)
+1. [Bash Tutorial](https://github.com/aruncs31s/ethical-hacking/tree/main/languages#bash)
+2. [Linux mining](https://github.com/aruncs31s/linux-mining/blob/main/fastTermuxSetup.sh)
+3. [python-programming](https://github.com/aruncs31s/programming/tree/main/python)
 
 
 ## html
@@ -55,6 +58,8 @@
 ## MATLAB
 1. [MATLAB-programming](https://github.com/aruncs31s/programming/blob/main/MATLAB)
 
+## Cyber Security
+1. [ethical-hacking](https://github.com/aruncs31s/ethical-hacking)
 
 ## java script
 1. [js-programming](https://github.com/aruncs31s/programming/tree/main/js)
@@ -64,7 +69,7 @@
 1. [nodejs-programming](https://github.com/aruncs31s/programming/tree/main/node.js)
 
 
-<h2 text-align="center" id="linux">Linux</h2>
+<h2 style='text-align:"center"' id="linux">Linux</h2>
 
 ### Tmux 
 1. [tmux_lite](https://github.com/aruncs31s/lite_tmux)
