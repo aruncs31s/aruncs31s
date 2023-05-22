@@ -1,3 +1,5 @@
+<!--
+
 <h2><i>Call me on any project</i></h2>
 
 
@@ -21,7 +23,7 @@
    - [T-ui](#t-ui)
 
 
-
+-->
 ## Contact?
 <p align='center'>
   
@@ -37,7 +39,7 @@
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
 
-
+<!--
 ## Bash 
 1. [Bash Tutorial](https://github.com/aruncs31s/ethical-hacking/tree/main/languages#bash)
 2. [Linux mining](https://github.com/aruncs31s/linux-mining/blob/main/fastTermuxSetup.sh)
@@ -114,3 +116,5 @@
 ### Apps 
 
 1. [app-ethical-hacking](https://github.com/aruncs31s/app-ethical-hacking)
+
+-->
