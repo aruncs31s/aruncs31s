@@ -26,7 +26,7 @@
 
 
 -->
-[***Click Here***](./keys/archcraft/2023.Nov/public.key.gpg) *to download my gnupg public key*
+[***Click Here***](./keys/archcraft/2023.Nov/public.key.gpg?raw=true) *to download my gnupg public key*
 
 
 ## Contact?
