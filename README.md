@@ -3,6 +3,8 @@
 <h2><i>Call me on any project</i></h2>
 
 
+
+
 ## projects
 - [Bash](#bash) <img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-bash-48.png" width="16"/>
 - [Python](#python) <img src="https://github.com/aruncs31s/aruncs31s/blob/main/icons/icons8-python-48.png" width="16"/>
@@ -24,6 +26,9 @@
 
 
 -->
+[***Click Here***](./keys/archcraft/2023.Nov/public.key.gpg) *to download my gnupg public key*
+
+
 ## Contact?
 <p align='center'>
   
