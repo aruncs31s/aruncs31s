@@ -27,7 +27,7 @@
 
 -->
 [***Click Here***](./keys/archcraft/2024.Mar/public.key.gpg?raw=true) *to download my gnupg public key*
-[***Click Here***](./keys/archcraft/2024.Mar/secret.key.gpg.sysmmetric.gpg) *to download my secret key*   [Click Here to decrypt](https://youtu.be/dQw4w9WgXcQ?si=fqoQbiLjYX13In0j) 
+[***Click Here***](./keys/archcraft/2024.Mar/secret.key.gpg.sysmmetric.gpg) *to download my secret key*   [***Click Here to decrypt***](https://youtu.be/dQw4w9WgXcQ?si=fqoQbiLjYX13In0j) 
 ## Contact?
 <p align='center'>
   
