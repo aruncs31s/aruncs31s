@@ -10,7 +10,8 @@ A --> N(Notes)
 F --> G[PowerBeam_M5_Signal_Strength_monitor ]
 click G "https://github.com/aruncs31s/PowerBeam_M5_Signal_Strength_monitor" "Goto Link"
 
-F --> H[Iot_based_smart_energy_management_system]
+F --> H[Iot_based_smart_energy_management_system] --> HH[Public]
+H --> HG[Private]
 N --> L(Public Notes)
 N --> M(Private Notes)
 N --> O(Btech Notes)
