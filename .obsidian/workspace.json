@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca6b5febde3ffaaa",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e9479060a0b505e",
+  "active": "8bd31c8844ec12b8",
   "lastOpenFiles": [
     "Pasted image 20240720225106.png",
     "README.md",
