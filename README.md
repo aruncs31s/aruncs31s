@@ -16,4 +16,29 @@
  <a href="mailto:aruncs31s@proton.me"> 
      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 
-### Navigation
+## Navigation
+### Embedded 
+- [Embedded System Kickstarter](https://github.com/aruncs31s/Embedded_System_Kickstarter)
+#### ESP32
+- [ESP32_MeshNet_For_Node_To_Gateway_Communication](https://github.com/aruncs31s/ESP32_MeshNet_For_Node_To_Gateway_Communication)
+- [Iot_based_smart_energy_management_system](https://github.com/aruncs31s/Iot_based_smart_energy_management_system) 
+#### Arduino
+- [Arduino-Based-LandSlide-Detection-for-IEEE-SSCS-Arduino-Contest](https://github.com/aruncs31s/Arduino-Based-LandSlide-Detection-for-IEEE-SSCS-Arduino-Contest)
+
+#### Raspberry pi 
+- [PowerBeam_M5_Signal_Strength_monitor](https://github.com/aruncs31s/PowerBeam_M5_Signal_Strength_monitor)
+### Linux
+##### Dotfiles
+- [Arch XFCE](https://github.com/aruncs31s/archcraft_xfce4_config)
+- [Keybindigs](https://github.com/aruncs31s/Universal-Keybindings)
+- [Dot Files](https://github.com/aruncs31s/linux-dot-files)
+- [Arch i3](https://github.com/aruncs31s/archcraft_i3wm_config)
+- [Archcraft BSPWM](https://github.com/aruncs31s/archcraft_bspwm_config)
+- [Chad Tmux](https://github.com/aruncs31s/chad_tmux)
+- [Astronvim](https://github.com/aruncs31s/Astronvim_config_new)
+- 
+#### Servers
+- [Flask home server](https://github.com/aruncs31s/flask_home_server)
+
+### Others
+- [Wallpapers](https://github.com/aruncs31s/wallpapers)
