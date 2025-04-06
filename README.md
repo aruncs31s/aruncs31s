@@ -16,4 +16,6 @@
  <a href="mailto:aruncs31s@proton.me"> 
      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aruncs31s&" alt="aruncs31s" /></p>
+
 ### Navigation
