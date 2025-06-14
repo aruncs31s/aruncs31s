@@ -1,6 +1,8 @@
 [**_Click Here_**](./keys/archcraft/2024.Mar/public.key.gpg?raw=true) _to download my gnupg public key_
 [**_Click Here_**](./keys/archcraft/2024.Mar/secret.key.gpg.sysmmetric.gpg) _to download my secret key_ [**_Click Here to decrypt_**](https://youtu.be/dQw4w9WgXcQ?si=fqoQbiLjYX13In0j)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aruncs31s&label=Profile%20views&color=0e75b6&style=flat" alt="Arun CS" /> </p>
+
 ## Contact?
 
   <a href="http://wa.me/+919747350188">
